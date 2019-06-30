@@ -1,0 +1,19 @@
+2019-01-06 14:27:17,718 [main] INFO Basetest - browser lanched
+2019-01-06 14:28:28,735 [main] INFO Basetest - url entered
+2019-01-06 14:44:33,229 [main] INFO Basetest - clicked
+2019-01-07 09:32:02,888 [main] INFO Basetest - browser lanched
+2019-01-07 09:32:21,703 [main] INFO Basetest - url entered
+2019-01-07 09:35:09,524 [main] INFO Basetest - browser lanched
+2019-01-07 09:35:30,333 [main] INFO Basetest - url entered
+2019-01-07 09:37:36,093 [main] INFO Basetest - mail r mbl
+2019-01-07 09:37:44,054 [main] INFO Basetest - clicked
+2019-01-07 09:37:46,538 [main] INFO Basetest - enterd password
+2019-01-07 09:38:01,624 [main] INFO Basetest - loggedin
+2019-01-07 09:38:06,166 [main] INFO Basetest - browser.closed
+2019-01-08 16:17:57,887 [main] INFO amazon.selenium.script.Basetest - browser lanched
+2019-01-08 16:18:14,851 [main] INFO amazon.selenium.script.Basetest - url entered
+2019-01-08 16:20:20,692 [main] INFO amazon.selenium.script.Basetest - mail r mbl
+2019-01-08 16:20:26,452 [main] INFO amazon.selenium.script.Basetest - clicked
+2019-01-08 16:20:27,144 [main] INFO amazon.selenium.script.Basetest - enterd password
+2019-01-08 16:20:40,793 [main] INFO amazon.selenium.script.Basetest - loggedin
+2019-01-08 16:20:42,604 [main] INFO amazon.selenium.script.Basetest - browser.closed
